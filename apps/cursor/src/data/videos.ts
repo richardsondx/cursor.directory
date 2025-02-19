@@ -9,6 +9,15 @@ export const videos = [
     }
   },
   {
+    "title": "MCP for Beginners: A Complete Guide",
+    "description": "Discover what MCP is, how it integrates with AI IDEs like CURSOR & WINDSURF, how to set it up, and where to find the best MCP servers to boost your workflow.",
+    "url": "https://www.youtube.com/embed/7NqQylSBIIo",
+    "author": {
+      "name": "Richardson Dackam",
+      "image": "https://yt3.ggpht.com/wfdn_1ByKhAo3OaoSF3dXcKUM79Slz8p7m2DSLdk_nkCrDBdRAqFYieWziwmVTfiMf0sM2YhNA=s176-c-k-c0x00ffffff-no-rj"
+    }
+  },
+  {
     title: "Cursor AI tutorial for beginners",
     description:
       "In this episode, I am joined by Ras Mic, a full stack engineer & YouTuber, where we dive deep into the frameworks and strategies on how to best use Cursor AI. Mic shares his unique insights into how to use and set up Cursor to make the experience of building on top of Cursor as easy and seamless as possible. Learn how to use Cursor like a pro!",
